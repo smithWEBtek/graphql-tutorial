@@ -170,7 +170,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
-  graphiql-rails
+  graphiql-rails (= 1.7.0)
   graphql (= 1.9.18)
   jbuilder (~> 2.7)
   listen (~> 3.2)
